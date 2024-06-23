@@ -1,0 +1,114 @@
+.jumbotron {
+    background-color: #f67d5b;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+  }
+  
+  .jumbotron h1 {
+    font-size: 3rem;
+  }
+  
+  .jumbotron p {
+    font-size: 1.25rem;
+  }
+  body{
+    background-color: #fa724c;
+    font-size: 130%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .navbar-text {
+    font-size: 44px; 
+    font-weight: bold; 
+    
+}
+container mt-5{
+  font-size: medium;
+  padding: 50%;
+  margin: auto;
+}
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.card-title{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 30px;
+  object-fit: cover;
+}
+.card-text{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 30px;
+  object-fit: cover;
+}
+.btn-primary{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
+  height: 40px;
+}
+.services-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.services-list li {
+  margin-bottom: 10px;
+  font-weight: 100px;
+}
+.custom-submit-btn {
+  background-color:#e05c38; 
+  border-color:#e05c38 ; 
+}
+
+.custom-submit-btn:hover {
+  background-color:#e05c38; 
+  border-color:#e05c38; 
+}
+
+.custom-margin-top {
+  margin-top: 20px; 
+}
+.image-container {
+  padding: 10px;
+  text-align: center;
+}
+
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.ml-2 {
+  margin-left: 10px; 
+}
+.total-container {
+  text-align: center;
+}
+
+.buy-now-btn {
+  font-size: 1.5rem;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
